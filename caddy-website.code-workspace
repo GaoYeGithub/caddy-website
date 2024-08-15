@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../caddy-website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
